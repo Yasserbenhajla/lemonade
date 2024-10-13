@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_select">Select a lemon</string>
+    <string name="lemon_squeeze">Squeeze the lemon</string>
+    <string name="lemon_drink">Drink the lemonade</string>
+    <string name="lemon_empty_glass">Empty glass, start again</string>
+
+    <!-- Ajoutez les descriptions de contenu pour les images -->
+    <string name="lemon_tree_content_description">A lemon tree</string>
+    <string name="lemon_content_description">A squeezed lemon</string>
+    <string name="lemonade_content_description">A glass of lemonade</string>
+    <string name="empty_glass_content_description">An empty glass</string>
+</resources>
